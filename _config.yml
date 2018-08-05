@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I am Chuan !
-name: DONGChuan
-email: dongchuan55@gmail.com
-location: Nice, France
-company: Gfi Informatique
-company_url: http://www.gfi.fr/en/
-github_url: https://github.com/DONGChuan
-description: This is personnel website of DONG Chuan
+title: Eu Sou  !
+name: Nilsonlinux
+email: nilsonlinux@gmail.com
+location: Brazil, Maranhão
+company: Nilsonlinux Software
+company_url: http://nilsonlinux.github.io/
+github_url: https://github.com/Nilsosoft
+description: Nilsosoft Nilsonlinux Here
 favicon: favicon.png # Image must be in assets/images
 
-url: http://dongchuan.github.io # the base hostname & protocol for your site
+url: http://nilsosoft.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: httpdongchuangithubio.disqus.com
+disque: nilsonlinux.disqus.com
 
 # Pagination
 paginate: 10
@@ -78,7 +78,7 @@ side_bar_repo_limit: 5 # Number of repos to show
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-72165600-1'
+      tracking_id : 'UA-122784671-1'
 
 
 # For about.html. Fell free to create your own!
