@@ -16,7 +16,7 @@ github_url: https://github.com/Nilsosoft
 description: Nilsosoft Nilsonlinux Here
 favicon: favicon.png # Image must be in assets/images
 
-url: http://nilsosoft.github.io # the base hostname & protocol for your site
+url: http://nilsonsoft.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
